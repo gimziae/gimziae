@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d5df00&height=270&section=header&fontColor=ffffff&text=HELLO!&fontSize=70&fontAlignY=35&animation=fadeIn&desc=ziae%20world&descSize=30&descAlignY=55&stroke=82b548&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d5df00&height=270&section=header&fontColor=ffffff&text=HELLO&fontSize=60&fontAlignY=35&animation=fadeIn&desc=ziae%20world&descSize=25&descAlignY=50&descAlign=54)
 
 <div align =center>
   <h3>💻 TECH STACK 💻</h3>
